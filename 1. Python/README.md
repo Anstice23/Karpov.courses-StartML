@@ -1,1 +1,1 @@
-1 блок курса Start ML: Python
+1 блок курса Start ML: Прикладная разработка на Python
